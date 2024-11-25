@@ -48,6 +48,16 @@ This system allows players to control a car in the game using **hand gestures**.
 <br>  
 </p>  
 
+
+### **🛠️ Setup Instructions**  
+To run this project, ensure you are using **Python 3.12**. Install the necessary libraries by running the following commands:  
+
+<ul>
+  <li><code>pip install opencv-python</code></li>
+  <li><code>pip install mediapipe</code></li>
+</ul>
+
+
 ---
 
 Credits: [Shantanu Shinde](https://github.com/shantanushinde99)  
